@@ -23,3 +23,7 @@ Waffle charts are utilized to represent immigration distribution by region visua
 In this multi-faceted project, I combine two datasets to create compelling visualizations. Firstly, I continue my exploration of immigration to Canada from 1980 to 2013. Additionally, I delve into San Francisco Police Department Incidents data for the year 2016. Using maps and geospatial techniques, I showcase immigration patterns and incidents distribution across San Francisco, providing valuable insights for both datasets.
 
 These projects aim to showcase the power of data visualization in uncovering trends, patterns, and insights within datasets. My GitHub repository serves as a valuable resource for accessing the project's source code, datasets, documentation, and any other resources related to these endeavors. I invite you to explore each project, provide feedback, and collaborate with me in the pursuit of data-driven knowledge and discovery. Thank you for joining me on this journey of data exploration and visualization.
+
+**NOTE: If you are unable to view the generated maps in the jupyter notebook, make sure to trust the notebook.
+Steps to take: download the notebook to your PC > open the notebook > go to files> Trust this notebook.
+Before all these can happen, make sure you have jupyter notebook installed in your PC.**
