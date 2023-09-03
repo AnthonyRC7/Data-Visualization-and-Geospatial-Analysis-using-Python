@@ -1,6 +1,6 @@
 # Exploring-Immigration-to-Canada-and-San-Francisco-Police-Department-Incidents
 
-Welcome to my GitHub repository featuring a series of data visualization projects focused on diverse datasets. In this collection, I employ various visualization techniques to uncover insights and trends within the data. Below, I provide an overview of each project:
+Welcome to my GitHub repository featuring a series of data visualization projects focused on diverse datasets. In this collection, I employ various visualization techniques to uncover insights and trends within the data. Below, I provide an overview of each project:g
 
 **1. Data Visualization on Immigration to Canada from 1980 - 2013 Using Line Plots:**
 
